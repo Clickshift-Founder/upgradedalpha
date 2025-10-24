@@ -15,7 +15,7 @@ const Footer = () => {
       color: 'hover:text-blue-400'
     },
     {
-      href: 'https://twitter.com/ClickShift',
+      href: 'https://x.com/ClickShiftAI',
       icon: Twitter,
       label: 'Twitter',
       color: 'hover:text-sky-400'
@@ -44,7 +44,7 @@ const Footer = () => {
       links: [
         { href: 'https://clickshift.io/privacy', label: 'Privacy Policy' },
         { href: 'https://clickshift.io/terms', label: 'Terms of Service' },
-        { href: 'https://clickshift.io/disclaimer', label: 'Disclaimer' },
+        { href: 'https://clickshift.io/risk-disclosure', label: 'Disclaimer' },
       ]
     }
   ]
